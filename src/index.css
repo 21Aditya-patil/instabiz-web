@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+:root {
+  --background: #020617;
+  --card: #111827;
+
+  --primary: #3B82F6;
+  --secondary: #8B5CF6;
+
+  --text: #F9FAFB;
+  --subtext: #9CA3AF;
+
+  --bg1: #0e0f13;
+  --bg2: #080b10;
+  --bg3: #070619;
+}
