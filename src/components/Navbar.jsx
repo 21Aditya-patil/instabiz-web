@@ -22,7 +22,7 @@ function Navbar() {
 
       <div className="relative flex justify-between items-center px-6 md:px-14 py-4">
 
-        <a href="hero" className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-purple-300 to-purple-700 bg-clip-text text-transparent cursor-pointer">
+        <a href="#hero" className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-purple-300 to-purple-700 bg-clip-text text-transparent cursor-pointer">
           INSTABIZ WEB
         </a>
 
